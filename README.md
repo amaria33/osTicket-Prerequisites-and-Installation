@@ -69,8 +69,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 
-<a href="https://drive.google.com/uc?export=view&id=1c2HuiA6AHYdM10VBmxb_wk0P4uPyRJsb">
-    <img src="https://drive.google.com/uc?export=view&id=1c2HuiA6AHYdM10VBmxb_wk0P4uPyRJsb"
+<a href="https://drive.google.com/uc?export=view&id=19uEf3rUdg2m9PNd_UEkiUFGqNmQGeuOj">
+    <img src="https://drive.google.com/uc?export=view&id=19uEf3rUdg2m9PNd_UEkiUFGqNmQGeuOj"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
 </p>
