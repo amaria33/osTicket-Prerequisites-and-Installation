@@ -6,8 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -29,10 +27,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <a href="[https://drive.google.com/uc?export=view&id=111MuNzh7JxLfNUOvWxtE-JqeDyYWVnWz](https://drive.google.com/file/d/1kC4pD03Gz82dx62_UzXonAeZbYZqntoF/view?usp=sharing)">
+    <img src="[https://drive.google.com/uc?export=view&id=111MuNzh7JxLfNUOvWxtE-JqeDyYWVnWz](https://drive.google.com/file/d/1kC4pD03Gz82dx62_UzXonAeZbYZqntoF/view?usp=sharing)"
+    style="width: 900px; max-width: 100%; height: auto"
+    title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+There are many steps to the installation files. The files consist of PHP Manager for IIS, Rewrite Module, PHP.7.3.8, VC, MySQL, and osTicket. 
 </p>
 <br />
 
