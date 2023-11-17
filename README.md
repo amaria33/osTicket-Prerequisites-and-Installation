@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This very short tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -55,7 +55,7 @@ While installing software, there needs to be reinstalls, configurations, and in 
     title="Click for the larger version." /></a>
 </p>
 <p>
-This is a long process, osTicket is not installed. As you can see there are some items we need to configure and some features that will need to be enabled in PHP ISS Manager. Once that is complete, along with a couple more tasks, we'll be ready to start taking osTickets. osTickets provides really great documentation and steps on how to complete each step. 
+This is a long process, osTicket is not installed. As you can see there are some items we need to configure and some features that will need to be enabled in PHP ISS Manager. Once that is complete, along with a couple more tasks, we'll be ready to start taking osTickets. osTicket provides really great documentation and steps on how to complete each step. 
 </p>
 
 <a href="https://drive.google.com/uc?export=view&id=19uEf3rUdg2m9PNd_UEkiUFGqNmQGeuOj">
