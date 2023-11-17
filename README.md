@@ -60,8 +60,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<a href="https://drive.google.com/uc?export=view&id=16SmWInRt5OrnYGLyJxc2HRIy6QEaZVJV/">
-    <img src="https://drive.google.com/uc?export=view&id=16SmWInRt5OrnYGLyJxc2HRIy6QEaZVJV/"
+<a href="https://drive.google.com/uc?export=view&id=16SmWInRt5OrnYGLyJxc2HRIy6QEaZVJV">
+    <img src="https://drive.google.com/uc?export=view&id=16SmWInRt5OrnYGLyJxc2HRIy6QEaZVJV"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
 </p>
