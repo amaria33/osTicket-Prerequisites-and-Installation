@@ -38,8 +38,8 @@ There are many steps to the installation files. The files consist of PHP Manager
 <br />
 
 <p>
-<a href="https://drive.google.com/uc?export=view&id=1c2HuiA6AHYdM10VBmxb_wk0P4uPyRJsb">
-    <img src="https://drive.google.com/uc?export=view&id=1c2HuiA6AHYdM10VBmxb_wk0P4uPyRJsb"
+<a href="https://drive.google.com/uc?export=view&id=14KnYc_O5_1YK37pUmaZFXbVyGN9WYrXP">
+    <img src="https://drive.google.com/uc?export=view&id=14KnYc_O5_1YK37pUmaZFXbVyGN9WYrXP"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
 </p>
