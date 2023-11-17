@@ -20,11 +20,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create a Resource Group in Azure
+- Create a Windows 10 VM with 2-4 CPU's in Azure
+- Allow it to Create a Virutal Network 
+- Remote Desktop In
+- Have Installation Files Ready
 
 <h2>Installation Steps</h2>
 
