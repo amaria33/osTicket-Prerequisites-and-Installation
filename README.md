@@ -44,7 +44,7 @@ There are many steps to the installation files. The files consist of PHP Manager
     title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+While installing software, there needs to be reinstalls, configurations, and in this case reloads. This is the PHP ISS Manager a graphical tool that allows webserver applications. For us that's osTickets. 
 </p>
 <br />
 
