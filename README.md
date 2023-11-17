@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     title="Click for the larger version." /></a>
 </p>
 <p>
-There are many steps to the installation files. The files consist of PHP Manager for IIS, Rewrite Module, PHP.7.3.8, VC, MySQL, and osTicket. 
+There are many steps to the installation files. The files consist of PHP Manager for IIS, Rewrite Module, PHP.7.3.8, VC, MySQL, and osTicket. As an entry level help desk technician you won't have to install osTicket but learning how to install software makes for good practices, plus osTicket is Open Source which means it's free to download. 
 </p>
 <br />
 
