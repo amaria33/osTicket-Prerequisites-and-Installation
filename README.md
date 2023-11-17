@@ -27,8 +27,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-  <a href="https://drive.google.com/file/d/1kC4pD03Gz82dx62_UzXonAeZbYZqntoF/view">
-    <img src="https://drive.google.com/file/d/1kC4pD03Gz82dx62_UzXonAeZbYZqntoF/view"
+   <a href="https://drive.google.com/uc?export=view&id=111MuNzh7JxLfNUOvWxtE-JqeDyYWVnWz">
+    <img src="https://drive.google.com/uc?export=view&id=111MuNzh7JxLfNUOvWxtE-JqeDyYWVnWz"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
 </p>
