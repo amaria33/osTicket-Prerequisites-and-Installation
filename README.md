@@ -49,24 +49,13 @@ While installing software, there needs to be reinstalls, configurations, and in 
 <br />
 
 <p>
-<a href="https://drive.google.com/uc?export=view&id=14KnYc_O5_1YK37pUmaZFXbVyGN9WYrXP">
-    <img src="https://drive.google.com/uc?export=view&id=14KnYc_O5_1YK37pUmaZFXbVyGN9WYrXP"
-    style="width: 900px; max-width: 100%; height: auto"
-    title="Click for the larger version." /></a>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
 <a href="https://drive.google.com/uc?export=view&id=16SmWInRt5OrnYGLyJxc2HRIy6QEaZVJV">
     <img src="https://drive.google.com/uc?export=view&id=16SmWInRt5OrnYGLyJxc2HRIy6QEaZVJV"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is a long process, osTicket is not installed. As you can see there are some items we need to configure and some features that will need to be enabled in PHP ISS Manager. Once that is complete, along with a couple more tasks, we'll be ready to start taking osTickets. osTickets provides really great documentation and steps on how to complete each step. 
 </p>
 
 <a href="https://drive.google.com/uc?export=view&id=19uEf3rUdg2m9PNd_UEkiUFGqNmQGeuOj">
@@ -75,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The last and biggest step is installing and connecting SQL Server. Every business runs on data, data is KING! You'll need to create a new database and name it osTicket, create a secure document with encryption with logins of the root name, username and password. You'll need this to login to the software. *Please note you can not login with the creditnals on the screenshot, the system has now been deleted. 
 </p>
 
 <a href="https://drive.google.com/uc?export=view&id=1e6_wiBKHVJFCoQeVTJsx8irSWOnhK5o6">
@@ -84,6 +73,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Rejoice! We have successfully installed osTicket. 
 </p>
 <br />
